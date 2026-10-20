@@ -10,7 +10,7 @@ A zero-dependency, bilingual expense tracker built for how money actually moves 
 ![Hosting](https://img.shields.io/badge/GitHub%20Pages-ready-222?logo=github)
 ![License](https://img.shields.io/badge/license-MIT-f42a41)
 
-**🔗 Live demo:** `https://YOUR_USERNAME.github.io/taka-tracker/`
+**🔗 Live demo:** `https://mahfuzanamkhan.github.io/taka-tracker/`
 
 ---
 
